@@ -4,7 +4,7 @@
 
 1. Aplicación Android (para tablets)
 2. Servicios REST (acceso a BD)
-3. Aplicación Web (back-end)*
+3. Aplicación Web (back-end)
 4. Base de datos (mysql)
 
 * para consulta/exportar los informes de inspección y administración de usuarios y laboratorios.
