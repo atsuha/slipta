@@ -7,4 +7,4 @@
 3. Aplicación Web (back-end)
 4. Base de datos (mysql)
 
-* para consulta/exportar los informes de inspección y administración de usuarios y laboratorios.
+(3) Para consulta/exportar los informes de inspección y administración de usuarios y laboratorios.
