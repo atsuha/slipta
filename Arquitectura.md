@@ -1,0 +1,10 @@
+#Arquitectura propuesta
+
+4 componentes:
+
+1. Aplicación Android (para tablets)
+2. Servicios REST (acceso a BD)
+3. Aplicación Web (back-end)
+4. Base de datos (mysql)
+
+(3) Para consulta/exportar los informes de inspección y administración de usuarios y laboratorios.

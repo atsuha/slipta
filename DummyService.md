@@ -1,0 +1,13 @@
+#servicios dummy
+
+# Servicios dummy #
+
+Formularios
+http://50.63.137.18/sliptademo/formularios.php
+
+Laboratorios
+http://50.63.137.18/sliptademo/laboratorios.php
+
+# Details #
+
+Ambos servicios devuelven un json.
